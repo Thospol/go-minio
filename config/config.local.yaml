@@ -1,0 +1,7 @@
+minio:
+  host: "localhost:9000"
+  access_key: "minio"
+  secret_key: "minio123"
+  bucket_name: "thospol"
+  prefix: "images"
+  secure: false
